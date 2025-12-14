@@ -1,0 +1,6 @@
+[project]
+name = "foundational-etl"
+version = "0.1.0"
+description = "Foundational ETL Pipeline"
+
+dependencies = ["faker"]
